@@ -9,6 +9,7 @@
 
 #include <openssl/evp.h>
 #include <random>
+#include <climits>
 
 namespace cuckoofilter {
 
